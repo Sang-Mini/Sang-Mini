@@ -1,6 +1,6 @@
-<h1> Hi👋 I'm SangMin from KOREA </h1>
-<br />
-<br />
+<h1> Hi👋 I'm SangMin from KOREA🇰🇷</h1>
 <h2> STACKS 📚 </h2>
-<img alt="Java" src ="https://img.shields.io/badge/Java-ffffff.svg?&style=flat&logo=java&logoColor=red"/>
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=ffffff"/>
+<div>
+<img src="https://img.shields.io/badge/Java-ffffff?style=flat&logo=java&logoColor=red"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff"/>
+  </div>
