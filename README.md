@@ -1,6 +1,9 @@
 <h1> Hello👋 <br /> I'm SangMin from KOREA🇰🇷</h1>
 <br />
 <br />
+
+삶의 흔적
+
 <h2> STACKS 📚 </h2>
 
 <div>
