@@ -40,10 +40,12 @@
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Visual Studio Code-blue?style=flat&logo=visualstudiocode&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Visual Studio Code-blue?style=flat&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=notion&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white"/> <br/>
+  <img src="https://img.shields.io/badge/MySQLWorkbench-4479A1?style=flat&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/DBeaver-DADADA?style=flat&logo=&logoColor=white">
 </p>
 
 <h3 align="center"> 🌈 My SMS 🌈 </h3>
