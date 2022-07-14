@@ -1,4 +1,4 @@
-<h1> Hello👋 <br /> I'm SangMin from KOREA🇰🇷</h1>
+<h1> Hello👋  I'm SangMin from KOREA🇰🇷</h1>
 <br />
 <br />
 <h2> STACKS 📚 </h2>
