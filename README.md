@@ -1,5 +1,5 @@
 <h1> Hello👋 <br /> I'm SangMin from KOREA🇰🇷</h1>
-<h2> History </h2>
+<h1> History </h1>
 <h2> STACKS 📚 </h2>
 
 <div>
