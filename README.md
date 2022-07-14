@@ -5,11 +5,11 @@
 
 <h2 align="center"> Hi👋, I'm SangMin from KOREA🇰🇷</h2>
 <h3 align="center">🏢 company 🏢</h3>
-<p align="center">
+<strong><p align="center">
   kakao<br/>
   kakaopay<br/>
   Playdata AI Bootcamp 20기<br/>
-</p>
+</p></strong>
 
 <h3 align="center">💻 Front-End 💻</h3>
 <p align="center">
