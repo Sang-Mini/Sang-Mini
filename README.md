@@ -11,16 +11,12 @@
   Playdata AI Bootcamp 20기<br/>
 </p>
 
-<br/>
-
 <h3 align="center">💻 Front-End 💻</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 </p>
-
-<br/>
 
 <h3 align="center">🖥 Back-End 🖥</h3>
 <p align="center">
@@ -30,23 +26,17 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
 </p>
 
-<br/>
-
 <h3 align="center">💽 DataBase 💽</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
 </p>
 
-<br/>
-
 <h3 align="center">📎 Ect Tech 📎</h3>
 <p align="center">
   <!-- <img src="https://img.shields.io/badge/Docker-DB3552?style=flat&logo=Docker&logoColor=white"/></a>&nbsp -->
   <img src="https://img.shields.io/badge/aws-333664?style=flat&logo=amazon-aws&logoColor=white"/></a>&nbsp
 </p>
-
-<br/>
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <p align="center">
@@ -57,8 +47,6 @@
   <img src="https://img.shields.io/badge/MySQLWorkbench-4479A1?style=flat&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/DBeaver-DADADA?style=flat&logo=&logoColor=white">
 </p>
-
-<br/>
 
 <h3 align="center"> 🌈 My SMS 🌈 </h3>
 <p align="center">
