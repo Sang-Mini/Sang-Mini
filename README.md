@@ -6,8 +6,8 @@
 <h2 align="center"> Hi👋, I'm SangMin from KOREA🇰🇷</h2>
 <h3 align="center">🏢 company 🏢</h3>
 <strong><p align="center">
-  kakao<br/>
-  kakaopay<br/>
+  kakao corp<br/>
+  kakaopay corp<br/>
   Playdata AI Bootcamp 20기<br/>
 </p></strong>
 
