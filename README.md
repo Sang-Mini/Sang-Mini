@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/jupyter-#F37626?style=flat&logo=jupyter&logoColor=white">
 
 <h3 align="center">💽 DataBase 💽</h3>
 <p align="center">
@@ -46,6 +45,7 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white"/> <br/>
   <img src="https://img.shields.io/badge/MySQLWorkbench-4479A1?style=flat&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/DBeaver-DADADA?style=flat&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white">
 </p>
 
 <h3 align="center"> 🌈 My SNS 🌈 </h3>
