@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=notion&logoColor=black"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white"/> <br/>
   <img src="https://img.shields.io/badge/MySQLWorkbench-4479A1?style=flat&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/DBeaver-DADADA?style=flat&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/DBeaver-DADADA?style=flat&logo=dbeaver&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white">
 </p>
 
