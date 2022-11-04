@@ -4,7 +4,7 @@
 </div>
 
 <h2 align="center"> Hi👋, I'm SangMin from KOREA🇰🇷</h2>
-<h3 align="center">🏢 company 🏢</h3>
+<h3 align="center">🏢 Company 🏢</h3>
 <strong><p align="center">
   kakao corp<br/>
   kakaopay corp<br/>
