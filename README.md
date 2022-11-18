@@ -9,6 +9,7 @@
   kakao corp<br/>
   kakaopay corp<br/>
   Playdata AI Bootcamp 20기<br/>
+  우아한테크코스 웹 프론트엔드 5기 프리코스
 </p></strong>
 
 <h3 align="center">💻 Front-End 💻</h3>
