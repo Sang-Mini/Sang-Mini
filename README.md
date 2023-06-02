@@ -9,8 +9,14 @@
   kakao corp<br/>
   kakaopay corp<br/>
   Playdata AI Bootcamp 20기<br/>
-  우아한테크코스 웹 프론트엔드 5기 프리코스
+  우아한테크코스 웹 프론트엔드 5기 프리코스 <br />
+  앨런 Swift문법 마스터 스쿨 18기
 </p></strong>
+
+<h3 align="center">💻 App 💻</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/swift-E34F26?style=flat&logo=swift&logoColor=white">
+</p>
 
 <h3 align="center">💻 Front-End 💻</h3>
 <p align="center">
