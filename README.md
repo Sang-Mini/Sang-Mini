@@ -26,14 +26,6 @@
   <img src="https://img.shields.io/badge/react-blue?style=flat&logo=react&logoColor=white">
 </p>
 
-<h3 align="center">🖥 Back-End 🖥</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-</p>
-
 <h3 align="center">💽 DataBase 💽</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
@@ -55,9 +47,4 @@
   <img src="https://img.shields.io/badge/MySQLWorkbench-4479A1?style=flat&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/DBeaver-DADADA?style=flat&logo=dbeaver&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white">
-</p>
-
-<h3 align="center"> 🌈 My SNS 🌈 </h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/easyhawn/"/></a>&nbsp
 </p>
